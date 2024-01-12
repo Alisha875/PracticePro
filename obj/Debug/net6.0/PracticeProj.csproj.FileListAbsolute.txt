@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\bin\Debug\net6.0\PracticeProj.exe
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\bin\Debug\net6.0\PracticeProj.deps.json
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\bin\Debug\net6.0\PracticeProj.runtimeconfig.json
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\bin\Debug\net6.0\PracticeProj.dll
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\bin\Debug\net6.0\PracticeProj.pdb
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.dll
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\refint\PracticeProj.dll
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.pdb
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\PracticeProj.genruntimeconfig.cache
+D:\Mphasis\Phase-4\Section-4\PracticeProj\PracticeProj\obj\Debug\net6.0\ref\PracticeProj.dll
